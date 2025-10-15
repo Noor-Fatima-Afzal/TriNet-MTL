@@ -51,3 +51,16 @@ Clone the repository and install the required Python packages:
 git clone https://github.com/Noor-Fatima-Afzal/TriNet-MTL.git
 cd eeg-multitask-transformer
 pip install -r requirements.txt
+
+---
+
+## 🙏 Acknowledgments
+
+- Dataset provided by PhysioNet
+- Original dataset creators: Accou et al. (2022)
+
+---
+
+## 📧 Contact
+
+For questions or issues, please open an issue on GitHub or contact [noorfatimaafzalbutt@gmail.com]
