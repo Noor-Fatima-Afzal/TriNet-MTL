@@ -10,6 +10,31 @@ The model learns shared temporal representations from auditory-evoked EEG signal
 
 ---
 
+## 📊 Dataset
+
+This work uses the **Auditory EEG dataset** from PhysioNet:
+
+**Citation:**
+```
+Accou, B., Jalilpour Monesi, M., Montoya, J., Van hamme, H., & Francart, T. (2022). 
+Auditory EEG dataset (version 1.0.0). PhysioNet. 
+https://doi.org/10.13026/105p-ws26
+```
+
+**Dataset Access:** https://physionet.org/content/auditory-eeg/1.0.0/
+
+**Description:** The dataset contains 64-channel EEG recordings from 20 subjects listening to auditory stimuli under different conditions (native/non-native language, in-ear/bone-conduction delivery). This multi-dimensional structure makes it ideal for multi-task learning approaches.
+
+**PhysioNet Citation:**
+```
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & 
+Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new 
+research resource for complex physiologic signals. Circulation, 101(23), e215-e220.
+```
+
+---
+
+
 ## 🖼️ Architecture
 
 <p align="center">
